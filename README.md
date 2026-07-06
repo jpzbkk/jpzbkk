@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,20,30&height=210&section=header&text=John%20Potenza&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20Principal%20AI%20Consultant%20%C2%B7%20CodeChang%20LLC&descSize=18&descAlignY=60&animation=fadeIn" alt="John Potenza — Founder & Principal AI Consultant, CodeChang LLC" width="100%" />
+<img src="./banner.svg" alt="John Potenza — Founder & Principal AI Consultant, CodeChang LLC" width="100%" />
 
 ### Turning ideas into production-ready AI
 
@@ -67,14 +67,6 @@ Engagements typically begin with an **AI Discovery Workshop** — mapping busine
 ## 🚀 &nbsp;Highlighted Project — AAR-GO
 
 A **medical-coding & billing platform for anesthesiologists**, built 2019–2025 in New York. Delivered as a cross-platform mobile app (Expo / React Native, iOS + Android) for practitioners, paired with a web admin portal for billing operations on a GraphQL API with Vue, React, and MongoDB. An end-to-end product spanning native mobile, real-world healthcare billing workflows, and a full back-office system.
-
-## 📊 &nbsp;GitHub
-
-<div align="center">
-
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpzbkk&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=8E75B2&icon_color=3FCF8E)
-
-</div>
 
 ---
 
