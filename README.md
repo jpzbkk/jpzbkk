@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="./banner.svg" alt="John Potenza — Founder & Principal AI Consultant, CodeChang LLC" width="100%" />
+<img src="./banner.png" alt="John Potenza — Founder & Principal AI Consultant, CodeChang LLC" width="100%" />
 
 ### Turning ideas into production-ready AI
 
